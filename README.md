@@ -1,2 +1,2 @@
 # DiscordTokenGrabber
-TokenGrabber
+A Discord Token grabber by kurde#0187
