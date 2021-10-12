@@ -1,0 +1,2 @@
+# DiscordTokenGrabber
+TokenGrabber
